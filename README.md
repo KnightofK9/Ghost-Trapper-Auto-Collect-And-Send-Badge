@@ -1,0 +1,1 @@
+# Ghost-Trapper-Auto-Collect-And-Send-Badge
