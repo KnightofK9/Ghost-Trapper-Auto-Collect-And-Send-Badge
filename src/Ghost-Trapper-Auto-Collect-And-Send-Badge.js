@@ -3,7 +3,7 @@
 // @namespace    http://www.ghost-trappers.com/fb/request_badges.php
 // @version      0.1
 // @description  Auto send badge, priority who send you request first
-// @author       You
+// @author       KoK9
 // @match        http://www.ghost-trappers.com/fb/request_badges.php
 // @grant        none
 // @require http://code.jquery.com/jquery-latest.js
