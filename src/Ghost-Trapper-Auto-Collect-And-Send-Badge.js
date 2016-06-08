@@ -2,7 +2,7 @@
 // @name         Ghost-Trapper-Auto-Collect-And-Send-Badge
 // @namespace    http://www.ghost-trappers.com/fb/request_badges.php
 // @version      0.1
-// @description  Auto send badge, priority who send you request first
+// @description  Auto send badge for ghost trapper, priority who send you request first. Still beta, more features comming soon
 // @author       KoK9
 // @match        http://www.ghost-trappers.com/fb/request_badges.php
 // @grant        none
